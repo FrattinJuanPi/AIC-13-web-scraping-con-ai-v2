@@ -1,0 +1,21 @@
+# Environment variables
+python-dotenv
+
+# Anthropic API client
+anthropic
+
+# MCP client (replace with actual package name if different)
+mcp
+
+# Async utilities
+asyncio
+
+# For JSON handling (standard library, no need to install)
+# json
+
+# Typing extensions (for TypedDict, if using Python <3.8)
+typing
+
+arxiv
+
+nest_asyncio
